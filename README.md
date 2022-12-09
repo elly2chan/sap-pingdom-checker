@@ -4,7 +4,7 @@
 </a>
 </p>
 <hr>
-<h3 align="justify">Pingdom checker is a small program that interacts with the Pingdom API.<br>
+<h3 align="center">Pingdom checker is a small program that interacts with the Pingdom API.<br>
 It is a task from my SAP interview and it can be used to add and remove checks from Pingdom<br>
 and you can monitor the uptime status of websites through the database.
 </h3>
