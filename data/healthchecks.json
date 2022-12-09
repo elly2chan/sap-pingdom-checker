@@ -1,0 +1,19 @@
+{
+   "healthchecks": [
+      {
+         "name":"google",
+         "host":"www.google.com",
+         "type":"http"
+      },
+      {
+         "name":"sap",
+         "host":"www.sap.com",
+         "type":"http"
+      },
+      {
+         "name":"amazon",
+         "host":"www.amazon.com",
+         "type":"http"
+      }
+   ]
+}
