@@ -5,8 +5,8 @@
 </p>
 <hr>
 <h3 align="center">Pingdom checker is a small program that interacts with the Pingdom API.<br>
-It is a task from my SAP interview and it can be used to add and remove checks from Pingdom<br>
-and you can monitor the uptime status of websites through the database.
+It is a task from my SAP interview and it can be used to add and remove checks from Pingdom.<br>
+You can monitor the uptime status of websites through the database. The data is stored in sqlite3 db.
 </h3>
 <br><br><br>
 <h3>To use it you need to create an account in Pingdom, generate an authentication token and put it in "main.py":</h3>
@@ -17,4 +17,3 @@ and you can monitor the uptime status of websites through the database.
     auth_token = 'put_your_auth_token_here'
 ```
 
-<h3>The data is stored in sqlite3 database.</h3>
