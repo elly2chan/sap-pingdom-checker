@@ -8,7 +8,7 @@
 It is a task from my SAP interview and it can be used to add and remove checks from Pingdom.<br>
 You can monitor the uptime status of websites through the database. The data is stored in sqlite3 db.
 </h3>
-<br><br><br>
+<br>
 <h3>To use it you need to create an account in Pingdom, generate an authentication token and put it in "main.py":</h3>
 
 ```python
