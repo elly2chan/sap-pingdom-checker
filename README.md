@@ -16,3 +16,5 @@ and you can monitor the uptime status of websites through the database.
     url = 'https://api.pingdom.com/api/3.1/checks'
     auth_token = 'put_your_auth_token_here'
 ```
+
+<h3>The data is stored in sqlite3 database.</h3>
